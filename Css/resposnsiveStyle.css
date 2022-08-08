@@ -1,0 +1,303 @@
+@media(min-width:992px) and (max-width: 1025px){
+	.container{
+		width:992px;
+		margin:auto;
+	}
+	.topbar{
+	width: 100%;
+	}
+	.contact{
+		width: 500px;
+		padding-left: 50px;
+	}
+	.socail{
+		width:300px;
+		padding-right: 50px;
+	}
+}
+@media(max-width: 992px){
+	.container{
+		max-width: 991px;
+		margin:auto;
+	}
+	.topbar{
+		display: none;
+	}
+	.logo{
+		width:100px;
+		margin-top: 0;
+		margin-left: 50px;
+	}
+	.menu{
+		width:700px;
+		margin-top: -4px;
+	}
+	.contentWraper{
+		margin-left: 50px;
+	}
+	.content{
+		width: 345px;
+		height: 250px;
+		margin-top: 20px;
+	}
+	.sectionMiddle{
+		margin-left: 50px;
+		padding: 25px;
+	}
+	.sectionMiddle .imageBox {
+    	width: 700px;
+	}
+	.sectionMiddle .contentBox {
+    	width: 700px;
+    	margin-left: 0px;
+    	margin-top: 20px;
+	}
+	.secMenu ul li{
+		width:50%;
+		padding-left: 0px;
+	}
+	.sectionMiddle2 .whyChoseMe {
+    	width: 300px;
+		text-align: justify;
+		margin-left: -30px;
+	}
+	.sectionMiddle3 .sectionMiddle3Header {
+    	margin-left: -70px;
+	}
+	.servicebox .servicebox-item{
+		width:400px;
+		margin-top: 20px;
+	}
+	.servicebox .servicebox-item img{
+		width: 400px;
+	}
+	.sectionMiddle4 .sectionMiddle4Header{
+		margin-left: -70px;
+	}
+	.priceBox .priceBox-item{
+		width:300px;
+		margin-left: 50px;
+		margin-top: 20px;
+	}
+	.sectionMiddle5 .sectionMiddle5Box .sectionMiddle5content .middle5content-menu{
+		padding: 0;
+	}
+	.sectionMiddle5 .sectionMiddle5Box .sectionMiddle5content .middle5content-menu li{
+		width: 100%;
+		padding: 20px;
+	}
+	.sectionMiddle5 .sectionMiddle5Box .sectionMiddle5content .middle5content-menu li p{
+		margin-left: 0;
+	}
+	.sectionMiddle6 .construction-team .teamBox{
+		width: 400px;
+		height: 500px;
+		margin-top: 20px;
+	}
+	.team-contactInfo{
+		margin-top: 300px;
+	}
+	.sectionMiddle7 .sectionMiddle7Header{
+		margin-left: -70px;
+	}
+	.best-project .project-content{
+		width:400px;
+		height: 320px;
+	}
+	.best-project .project-content .project-subContent{
+		top: 45%;
+		width: 100%;
+	}
+	.best-project .project-content .animateLink{
+		bottom: 40px;
+	}
+	.sectionMiddle8 .sectionMiddle8Header{
+		margin-left: -100px;
+	}
+	.sectionMiddle8Content .imgContentBox{
+		width:400px;
+	}
+	.sectionMiddle8Content .imgContentBox{
+		margin-top: 20px;
+	}
+	.subContainer{
+		width: 750px;
+    	margin-right: 180px;
+	}
+	.footer-topContent .subscribe,.contact-info,.follow{
+		width: 200px;
+		margin-left: 0;
+	}
+	.footer-topContent .subscribe form{
+		width: 220px;
+	}
+	.footer-topContent .subscribe form input{
+		width:220px;
+	}
+	.footer-topContent .contact-info{
+		width: 200px;
+		
+	}
+	.footer-topContent .follow{
+		width: 225px;
+		margin-left:0px;
+	}
+	footer .aboutUs, .contactUs, .usefulLink, .recentPost{
+		width: 350px;
+		padding:0 50px;
+	}
+	.main-footer ul{
+		float: none;
+	}
+}
+@media(max-width:768px){
+	.container{
+		width: 100%;
+		margin:auto;
+	}
+	.mainSlider{
+		background-size:768px;
+	}
+	.sliedContent{
+		max-width:100%;
+		padding: 0px;
+		margin-left:20px;
+	}
+	.sliedContent h2{
+		font-size: 25px;
+		margin-bottom:0;
+	}
+	.sliedContent .para-content{
+		font-weight: 400;
+		margin-top: 1em;
+		margin-bottom: 1em;
+		margin-right: 6em;
+	}
+	.content {
+    	width: 270px;
+    	height: 250px;
+    	margin-top: 20px;
+	}
+	.sectionMiddle .imageBox img{
+		width:600px;
+	}
+	.sectionMiddle2 .whyChoseMe{
+		text-align: center;
+		margin-left:90px;
+		margin-top: 20px;
+	}
+	.servicebox .servicebox-item img {
+   		width: 500px;
+	}
+	.sectionMiddle5{
+		display: block;
+		height: 100%;
+	}
+	.sectionMiddle5 .sectionMiddle5imgBox{
+		width:100%;
+	}
+	.sectionMiddle5Box{
+		width:100%;
+		margin-top:-5px;
+	}
+	.sectionMiddle5 .sectionMiddle5Box .sectionMiddle5content .middle5content-menu li{
+		float:left;
+		width:35%;
+	}
+	.sectionMiddle6 .construction-team .teamBox {
+    	width: 500px;
+    	height: 600px;
+    	margin-top: 20px;
+    	margin-left: 70px;
+	}
+	.team-contactInfo {
+    	margin-top: 400px;
+	}
+}
+@media(max-width:480px){
+	.sectionMiddle .imageBox img{
+		width:340px;
+	}
+	.sectionMiddle .contentBox{
+		width:400px;
+	}
+	.sectionMiddle .contentBox p{
+		width:340px;
+	}
+	.sectionMiddle2 .whyChoseMe{
+		margin-left: 0;
+	}
+	.sectionMiddle3 .sectionMiddle3Header{
+    	margin-left: -50px;
+    	width: 400px;
+	}
+	.sectionMiddle3 .sectionMiddle3Header p{
+		width:340px;
+		padding-top:0;
+		margin-top: 20px;
+	}
+	.sectionMiddle4 .sectionMiddle4Header{
+    	margin-left: -50px;
+    	width: 400px;
+	}
+	.sectionMiddle4 .sectionMiddle4Header p{
+		width:340px;
+		padding-top:0;
+		margin-top: 20px;
+	}
+	.priceBox .priceBox-item{
+    	width: 240px;
+    	margin-left: 0px;
+	}
+	.sectionMiddle5 .sectionMiddle5Box .sectionMiddle5content .middle5content-menu li{
+		width:90%;
+	}
+	.sectionMiddle6 .sectionMiddle6heading{
+    	margin-left: -50px;
+	}
+	.sectionMiddle6 .sectionMiddle6heading p{
+		width:340px;
+		padding-top:0;
+		margin-top: 20px;
+	}
+	.sectionMiddle6 .construction-team .teamBox{
+    	width: 335px;
+   		height: 425px;
+    	margin-left: 39px;
+	}
+	.team-contactInfo{
+    	margin-top: 270px;
+	}
+	.sectionMiddle7 .sectionMiddle7Header{
+    	margin-left: -50px;
+    	width: 400px;
+	}
+	.sectionMiddle7 .sectionMiddle7Header p{
+		width:340px;
+		padding-top:0;
+		margin-top: 20px;
+	}
+	.footer-topContent .subscribe{
+   		width: 100%;
+    	margin-left: 40px;
+    	float: none;
+	}
+	.footer-topContent .contact-info{
+		float: none;
+		width:100%;
+		margin-left: 40px;
+		margin-top: 20px;
+	}
+	.footer-topContent .follow{
+		float: none;
+		width:100%;
+		margin-left: 40px;
+		margin-top: 20px;
+	}
+	.main-footer p{
+		float: none;
+	}
+	.main-footer ul {
+    	float: none;
+	}
+}
